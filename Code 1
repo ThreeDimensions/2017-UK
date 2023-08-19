@@ -107,4 +107,4 @@ credits = function() {
   }
   alert(text)
 }
-
+e.mod_achievements = true
